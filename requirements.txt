@@ -1,0 +1,10 @@
+numpy
+opencv-python
+scikit-image
+scikit-learn
+matplotlib
+joblib
+Pillow
+# only needed for the deep-learning part (train_cnn.py / predict.py)
+torch
+torchvision
